@@ -3,7 +3,7 @@ from random import choice
 import time
 
 api_id = 2744551
-api_hash = 3741293f4c0597b77e70b2e84ff8bbe3
+api_hash = '3741293f4c0597b77e70b2e84ff8bbe3'
 
 # These example values won't work. You must get your own api_id and
 # api_hash from https://my.telegram.org, under API Development.
